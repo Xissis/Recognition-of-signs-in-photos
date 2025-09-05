@@ -1,0 +1,5 @@
+classes = 2
+train = /home/bruno/nn/znaki/znaki_train.txt
+valid = /home/bruno/nn/znaki/znaki_valid.txt
+names = /home/bruno/nn/znaki/znaki.names
+backup = /home/bruno/nn/znaki
